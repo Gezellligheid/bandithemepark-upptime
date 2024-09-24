@@ -28,9 +28,7 @@ status-website:
   name: BandiThemepark Status
   introTitle: "BandiThemepark Status"
   introMessage: ""
-  navbar:
-    - title: Status
-      href: /
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
