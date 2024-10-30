@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bandithemepark.net.ico",
     "slug": "www-bandithemepark-net",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 856,
     "timeDay": 754,
     "timeWeek": 910,
     "timeMonth": 858,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2024-10-30": 12
+      "2024-10-30": 17
     }
   },
   {
@@ -25,38 +25,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "play-bandithemepark-net",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 500,
     "timeDay": 1214,
     "timeWeek": 764,
     "timeMonth": 503,
     "timeYear": 500,
-    "dailyMinutesDown": {
-      "2024-10-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.bandithemepark.net",
     "url": "https://api.bandithemepark.net/",
     "icon": "https://icons.duckduckgo.com/ip3/api.bandithemepark.net.ico",
     "slug": "api-bandithemepark-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 416,
-    "timeWeek": 583,
-    "timeMonth": 521,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 518,
+    "timeDay": 528,
+    "timeWeek": 590,
+    "timeMonth": 525,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-10-30": 0
+      "2024-10-30": 6
     }
   },
   {
@@ -65,18 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-broker",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 101,
     "timeWeek": 130,
     "timeMonth": 107,
     "timeYear": 106,
-    "dailyMinutesDown": {
-      "2024-10-30": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
