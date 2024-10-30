@@ -4,36 +4,40 @@
     "url": "https://www.bandithemepark.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bandithemepark.net.ico",
     "slug": "www-bandithemepark-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 856,
     "timeDay": 754,
     "timeWeek": 910,
     "timeMonth": 858,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 3
+    }
   },
   {
     "name": "play.bandithemepark.net",
     "url": "https://api.mcsrvstat.us/2/play.bandithemepark.net",
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "play-bandithemepark-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 581,
-    "timeWeek": 545,
-    "timeMonth": 437,
-    "timeYear": 452,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 498,
+    "timeDay": 1516,
+    "timeWeek": 783,
+    "timeMonth": 500,
+    "timeYear": 498,
+    "dailyMinutesDown": {
+      "2024-10-30": 3
+    }
   },
   {
     "name": "api.bandithemepark.net",
@@ -58,7 +62,7 @@
     "url": "54.36.178.219",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-broker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 130,
     "timeMonth": 107,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   }
 ]
