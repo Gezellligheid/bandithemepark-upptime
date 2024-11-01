@@ -1,7 +1,7 @@
 url: https://api.mcsrvstat.us/2/play.bandithemepark.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-01T11:15:53.843Z
+status: up
+code: 200
+responseTime: 19577
+lastUpdated: 2024-11-01T11:23:37.405Z
 startTime: 2024-09-24T12:51:50.971Z
 generator: Upptime <https://github.com/upptime/upptime>
