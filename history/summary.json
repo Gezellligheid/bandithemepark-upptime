@@ -10,11 +10,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 856,
-    "timeDay": 1069,
-    "timeWeek": 847,
-    "timeMonth": 868,
-    "timeYear": 856,
+    "time": 853,
+    "timeDay": 697,
+    "timeWeek": 840,
+    "timeMonth": 866,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2024-10-30": 38
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "play-bandithemepark-net",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1193,
-    "timeDay": 6796,
-    "timeWeek": 3598,
-    "timeMonth": 1519,
-    "timeYear": 1193,
-    "dailyMinutesDown": {
-      "2024-11-05": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1179,
+    "timeDay": 6778,
+    "timeWeek": 3585,
+    "timeMonth": 1553,
+    "timeYear": 1179,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.bandithemepark.net",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
-    "timeDay": 667,
-    "timeWeek": 518,
-    "timeMonth": 525,
+    "timeDay": 488,
+    "timeWeek": 527,
+    "timeMonth": 526,
     "timeYear": 517,
     "dailyMinutesDown": {}
   },
@@ -69,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 149,
-    "timeWeek": 108,
+    "timeDay": 86,
+    "timeWeek": 106,
     "timeMonth": 109,
     "timeYear": 106,
     "dailyMinutesDown": {}
