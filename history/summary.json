@@ -26,9 +26,9 @@
     "slug": "play-bandithemepark-net",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 990,
     "timeDay": 238,
@@ -36,7 +36,7 @@
     "timeMonth": 1505,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 3
     }
   },
   {
