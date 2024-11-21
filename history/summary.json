@@ -24,19 +24,19 @@
     "url": "https://api.mcsrvstat.us/2/play.bandithemepark.net",
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "play-bandithemepark-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 238,
-    "timeWeek": 321,
-    "timeMonth": 1505,
-    "timeYear": 990,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 982,
+    "timeDay": 302,
+    "timeWeek": 333,
+    "timeMonth": 1478,
+    "timeYear": 982,
     "dailyMinutesDown": {
-      "2024-11-21": 3
+      "2024-11-21": 30
     }
   },
   {
