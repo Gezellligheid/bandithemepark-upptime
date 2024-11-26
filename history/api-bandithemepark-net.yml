@@ -1,7 +1,7 @@
 url: https://api.bandithemepark.net/
-status: down
-code: 502
-responseTime: 613
-lastUpdated: 2024-11-26T11:44:20.435Z
+status: up
+code: 200
+responseTime: 550
+lastUpdated: 2024-11-26T11:57:40.307Z
 startTime: 2024-09-24T13:07:50.109Z
 generator: Upptime <https://github.com/upptime/upptime>
