@@ -44,18 +44,20 @@
     "url": "https://api.bandithemepark.net/",
     "icon": "https://icons.duckduckgo.com/ip3/api.bandithemepark.net.ico",
     "slug": "api-bandithemepark-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 664,
-    "timeWeek": 523,
-    "timeMonth": 534,
-    "timeYear": 521,
-    "dailyMinutesDown": {}
+    "time": 523,
+    "timeDay": 639,
+    "timeWeek": 534,
+    "timeMonth": 536,
+    "timeYear": 523,
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   },
   {
     "name": "MQTT broker",
