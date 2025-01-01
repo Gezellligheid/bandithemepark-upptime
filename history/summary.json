@@ -45,19 +45,19 @@
     "url": "https://api.bandithemepark.net/",
     "icon": "https://icons.duckduckgo.com/ip3/api.bandithemepark.net.ico",
     "slug": "api-bandithemepark-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 502,
-    "timeWeek": 489,
-    "timeMonth": 508,
-    "timeYear": 519,
+    "time": 518,
+    "timeDay": 488,
+    "timeWeek": 486,
+    "timeMonth": 507,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-01-01": 0
+      "2025-01-01": 7
     }
   },
   {
