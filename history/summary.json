@@ -4,9 +4,9 @@
     "url": "https://www.bandithemepark.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bandithemepark.net.ico",
     "slug": "www-bandithemepark-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1023,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2025-03-10": 0,
       "2024-10-30": 38
     }
   },
